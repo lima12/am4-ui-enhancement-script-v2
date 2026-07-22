@@ -40,7 +40,7 @@ AM4-UI is written in JavaScript. It makes alterations to the game's UI in your b
 ## Installation
 1. Install a userscript manager for your browser, such as [Tampermonkey](https://www.tampermonkey.net/).
 
-1. Once installed, open the [GitHub Raw Link](https://raw.githubusercontent.com/lima12/am4-ui-enhancement-script/Master/script.user.js) for `script.user.js`.
+1. Once installed, open the [GitHub Raw Link](https://raw.githubusercontent.com/lima12/am4-ui-enhancement-script-v2/main/script.user.js) for `script.user.js`.
 
 1. **Auto-install** &mdash; If you're using Tampermonkey, it will automatically ask you if you want to install the script. This is the best way to install it, as it will automatically fetch updates when they are published to GitHub.
 
@@ -122,7 +122,7 @@ I may add more in the future &mdash; I don't want it to be too annoying.
 Removes advertisements for other games from the interface. As someone who has paid money for the game, I'd prefer not to see ads.
 
 ## Support
-Bugs or feature requests can be raised through [GitHub](https://github.com/mb4828/am4-ui-enhancement-script/issues). I sadly don't have time to respond to issues raised elsewhere (Reddit, Discord, etc).
+Bugs or feature requests can be raised through [GitHub](https://github.com/lima12/am4-ui-enhancement-script-v2/issues). I sadly don't have time to respond to issues raised elsewhere (Reddit, Discord, etc).
 
 Pull requests are always welcome!
 
