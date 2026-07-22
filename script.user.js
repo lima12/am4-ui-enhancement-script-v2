@@ -4,6 +4,7 @@
 // @version      1.6
 // @description  Usability and Immersion improvements for Airline Manager 4
 // @author       matt@mattbrauner.com & Haruko
+// @match        https://airlinemanager.com/*
 // @match        https://www.airlinemanager.com/*
 // @icon         https://www.airlinemanager.com/favicon.ico
 // @homepage     https://github.com/lima12/am4-ui-enhancement-script-v2
