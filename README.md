@@ -31,16 +31,16 @@ AM4-UI is **not a bot**. It does not automate any functions of the game, it **wi
 
 AM4-UI is written in JavaScript. It makes alterations to the game's UI in your browser *only*. These changes do not affect other users of the game or impact the game's servers or infrastructure in any way. This is why the Custom Livery feature only works for you on your current device.
 
-### Support Me
+### Support Matt Brauner
 
-**If you enjoy this and would like to support my work, feel free to leave a tip via [PayPal](https://paypal.me/mattbrauner)**
+**If you enjoy this and would like to support the original author work, feel free to leave a tip via [PayPal](https://paypal.me/mattbrauner)**
 
 <a href="https://paypal.me/mattbrauner" target="_blank"><img src="images/donate.png" alt="Donate" width="140" /></a>
 
 ## Installation
 1. Install a userscript manager for your browser, such as [Tampermonkey](https://www.tampermonkey.net/).
 
-1. Once installed, open the [GitHub Raw Link](https://raw.githubusercontent.com/mb4828/am4-ui-enhancement-script/refs/heads/main/script.user.js) for `script.user.js`.
+1. Once installed, open the [GitHub Raw Link](https://raw.githubusercontent.com/lima12/am4-ui-enhancement-script/Master/script.user.js) for `script.user.js`.
 
 1. **Auto-install** &mdash; If you're using Tampermonkey, it will automatically ask you if you want to install the script. This is the best way to install it, as it will automatically fetch updates when they are published to GitHub.
 
@@ -128,7 +128,7 @@ Pull requests are always welcome!
 
 ## Legal
 
-Copyright &copy; 2025 Matt Brauner
+Copyright &copy; 2025 Matt Brauner (and Haruko?)
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the [GNU General Public License](LICENSE) as published by
@@ -140,4 +140,4 @@ but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 
-For legal requests, I can be reached at matt[at]mattbrauner.com.
+For legal requests, I can be reached at Haruko[at]haruko@tacotter.com.
