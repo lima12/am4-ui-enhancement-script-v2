@@ -141,3 +141,5 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 
 For legal requests, I can be reached at Haruko[at]haruko@tacotter.com.
+
+Like for real, just use it how u like, mod it how u would. it free real estate!
