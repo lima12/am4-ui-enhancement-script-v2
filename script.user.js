@@ -6,33 +6,33 @@
 // @author       matt@mattbrauner.com & Haruko
 // @match        https://www.airlinemanager.com/*
 // @icon         https://www.airlinemanager.com/favicon.ico
-// @homepage     https://github.com/mb4828/am4-ui-enhancement-script
+// @homepage     https://github.com/lima12/am4-ui-enhancement-script-v2
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @grant        GM_deleteValue
 // @grant        GM_xmlhttpRequest
 // @connect      raw.githubusercontent.com
-// @updateURL    https://raw.githubusercontent.com/lima12/am4-ui-enhancement-script/Master/script.user.js
-// @downloadURL  https://raw.githubusercontent.com/lima12/am4-ui-enhancement-script/Master/script.user.js
+// @updateURL    https://raw.githubusercontent.com/lima12/am4-ui-enhancement-script-v2/main/script.user.js
+// @downloadURL  https://raw.githubusercontent.com/lima12/am4-ui-enhancement-script-v2/main/script.user.js
 // ==/UserScript==
 
 'use strict';
 
 const startupSound = new Audio(
-  'https://raw.githubusercontent.com/lima12/am4-ui-enhancement-script/Master/sounds/ding-long.mp3'
+  'https://raw.githubusercontent.com/lima12/am4-ui-enhancement-script-v2/main/sounds/ding-long.mp3'
 );
 const notificationSound = new Audio(
-  'https://raw.githubusercontent.com/lima12/am4-ui-enhancement-script/Master/sounds/ding-short.mp3'
+  'https://raw.githubusercontent.com/lima12/am4-ui-enhancement-script-v2/main/sounds/ding-short.mp3'
 );
 const takeoffSound = new Audio(
-  'https://raw.githubusercontent.com/lima12/am4-ui-enhancement-script/Master/sounds/takeoff.mp3'
+  'https://raw.githubusercontent.com/lima12/am4-ui-enhancement-script-v2/main/sounds/takeoff.mp3'
 );
 startupSound.volume = 0.1;
 notificationSound.volume = 0.1;
 takeoffSound.volume = 0.4;
 
 const RESOURCE_PRICE_SCHEDULE_URL =
-  'https://raw.githubusercontent.com/lima12/am4-ui-enhancement-script/Master/resource-prices.json';
+  'https://raw.githubusercontent.com/lima12/am4-ui-enhancement-script-v2/main/resource-prices.json';
 const RESOURCE_MARKET_MODAL_ID = 'am4-resource-market-modal';
 const RESOURCE_MARKET_RESOURCES = ['fuel', 'co2'];
 const RESOURCE_PRICE_ALERTS = {
